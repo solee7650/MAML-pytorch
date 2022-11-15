@@ -1,0 +1,5 @@
+tqdm
+joblib>=1.0.1
+ipython
+jupyterlab
+matplotlib
